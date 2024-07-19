@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"o_collisionwall","order":1,"path":"objects/o_collisionwall/o_collisionwall.yy",},
+    {"name":"o_visiblewall","order":2,"path":"objects/o_visiblewall/o_visiblewall.yy",},
+    {"name":"s_collision","order":3,"path":"sprites/s_collision/s_collision.yy",},
+    {"name":"s_floor","order":2,"path":"sprites/s_floor/s_floor.yy",},
+    {"name":"s_wall","order":1,"path":"sprites/s_wall/s_wall.yy",},
+  ],
+}
